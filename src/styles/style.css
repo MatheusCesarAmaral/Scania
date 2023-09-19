@@ -1,24 +1,15 @@
-.logo {
-    float: left;
-}
-
 h1 {
     color: #00275d;
 }
 
-header img {  
-    margin-right: 10px;
-}   
-
 header a {
     color: #00275d;
     float: right;
-    margin: 3px;
+    margin: 2px;
 }
 
 footer {
     background-color: #00275d;
-    height: 80px;
 }
 
 footer h1 {
@@ -27,6 +18,9 @@ footer h1 {
     padding: 20px;
 }
 
+.logo {
+    float: left;
+}
 .contato {
     text-align: center;
 }
