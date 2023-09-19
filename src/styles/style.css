@@ -1,3 +1,7 @@
+body {
+    color: #00275d;
+}
+
 h1 {
     color: #00275d;
 }
@@ -10,6 +14,8 @@ header a {
 
 footer {
     background-color: #00275d;
+    position: relative;
+    bottom: 0px;
 }
 
 footer h1 {
@@ -21,6 +27,11 @@ footer h1 {
 .logo {
     float: left;
 }
-.contato {
-    text-align: center;
+
+td {
+    color: #00275d;
+}
+
+td img {
+    width: 200px;
 }
