@@ -1,5 +1,6 @@
 body {
     color: #00275d;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -34,4 +35,12 @@ td {
 
 td img {
     width: 200px;
+}
+
+input {
+    margin: 2px;
+}
+.scania {
+    position: relative;
+    top: 3px;
 }
