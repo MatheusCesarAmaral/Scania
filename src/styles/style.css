@@ -1,50 +1,72 @@
 body {
-    color: #00275d;
-    font-family: 'Roboto', sans-serif;
+  color: #00275d;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
-    color: #00275d;
+  color: #00275d;
 }
 
 a {
-    color: #00275d;
+  color: #00275d;
 }
 
 header a {
-    color: #00275d;
-    float: right;
-    margin: 2px;
+  color: #00275d;
+  float: right;
+  margin: 2px;
 }
 
 footer {
-    background-color: #00275d;
-    position: relative;
-    bottom: 0px;
+  background-color: #00275d;
+  position: relative;
+
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
 
 footer h1 {
-    color: aliceblue;
-    text-align: center;
-    padding: 0px;
-}
-
-.logo {
-    float: left;
+  color: aliceblue;
+  text-align: center;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
 }
 
 td {
-    color: #00275d;
+  color: #00275d;
 }
 
 td img {
-    width: 200px;
+  width: 200px;
 }
 
 input {
-    margin: 2px;
+  margin: 2px;
 }
+
 .scania {
-    position: relative;
-    top: 3px;
+  position: relative;
+  top: 3px;
+}
+
+.logo {
+  float: left;
+}
+
+.fabrica {
+  position: absolute;
+  width: 800px;
+  height: 350px;
+  bottom: 123px;
+  right: 0px;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.nav a:hover { 
+    text-decoration:underline;
 }
