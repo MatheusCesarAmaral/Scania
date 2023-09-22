@@ -55,14 +55,6 @@ input {
   float: left;
 }
 
-.fabrica {
-  position: absolute;
-  width: 800px;
-  height: 350px;
-  bottom: 123px;
-  right: 0px;
-}
-
 .nav a {
     text-decoration: none;
 }
