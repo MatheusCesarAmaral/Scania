@@ -3,8 +3,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+p {
+  font-size: 20px;
+}
+
 h1 {
   color: #00275d;
+  font-size: 25px;
 }
 
 a {
