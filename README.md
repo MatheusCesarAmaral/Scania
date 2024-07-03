@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="/src/img/Scania.png" alt="Demonstração do projeto" width="100%">
+  <img  src="/src/img/Scania.jpeg" alt="Demonstração do projeto" width="100%">
 </p>
 
 ## 🚛 Projeto 
