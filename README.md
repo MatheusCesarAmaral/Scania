@@ -3,7 +3,7 @@
 </p>
 
 ## 🚛 Projeto 
-Esse é um site estático da Scania.
+Esse é um projeto de um site estático da Scania.
 
 ## 🚀 Tecnologias 
 Esse projeto foi desenvolvido durante uma aula de programação web no SENAI, com as seguintes tecnologias:
